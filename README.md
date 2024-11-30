@@ -4,7 +4,13 @@ Minimalistic Shopping App User InterFace
 =======
 # shopping
 
-A new Flutter project.
+## Screenshots
+
+<img src="Shopping_cart/home.jpg" alt="Home" width="300">
+<center>Home</center>
+
+<img src="Shopping_cart/login.jpg" alt="login" width="300">
+<center>Login Screen</center>
 
 ## Getting Started
 
